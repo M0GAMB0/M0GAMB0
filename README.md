@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **saikumarhangal99@gmail.com**
 
-- 📄 Know about my experiences [resume](shorturl.at/yGTZ6)
+- 📄 Know about my experiences <a href="shorturl.at/yGTZ6" target="blank">**resume**</a>
 
 - ⚡ Fun fact **If I do not code only for one day, then I forget everything, and I fall behind 2 months.**
 
