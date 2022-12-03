@@ -7,13 +7,13 @@
 
 - 📫 How to reach me **saikumarhangal99@gmail.com**
 
-- 📄 Know about my experiences <a href="shorturl.at/yGTZ6" target="blank">**resume**</a>
+- 📄 Know about my experiences <a href="https://www.shorturl.at/yGTZ6" target="_blank">**resume**</a>
 
 - ⚡ Fun fact **If I do not code only for one day, then I forget everything, and I fall behind 2 months.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/saikumarhangal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saikumarhangal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/saikumarhangal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saikumarhangal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
