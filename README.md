@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Weather App using React**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Java Spring Boot**
 
 - 📫 How to reach me **saikumarhangal99@gmail.com**
 
