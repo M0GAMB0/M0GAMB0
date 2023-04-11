@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/46846821/87522094-a135a000-c69e-11ea-899d-e8093968ef3b.gif" width="24px">, I'm Saikumar Hangal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Weather App using React**
+- 🔭 I’m currently working on **Ecommerce Backend App using Java Spring Boot**
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
