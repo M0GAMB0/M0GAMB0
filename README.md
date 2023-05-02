@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/saikumarhangal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saikumarhangal" height="30" width="40" /></a>
+<a href="https://www.frontendmentor.io/profile/M0GAMB0" target="_blank"><img align="center" src="https://www.frontendmentor.io/static/images/logo-desktop.svg" alt="saikumarhangal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
